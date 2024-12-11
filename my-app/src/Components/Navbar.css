@@ -1,0 +1,46 @@
+/* Container for the nav */
+nav {
+    background-color: #007bff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Flex container for navigation links and button */
+  nav > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: fit-content;
+    margin: 0 auto;
+  }
+  
+  /* Styling for links */
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 0 15px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #e0e0e0;
+  }
+  
+  /* Styling for logout button */
+  nav button {
+    background-color: #dc3545;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: fit-content;
+  }
+  
+  nav button:hover {
+    background-color: #c82333;
+  }
+  

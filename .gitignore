@@ -1,0 +1,7 @@
+/backend/node_modules
+/backend/.vscode
+/backend/.env
+
+/my-app/node_modules
+/my-app/.vscode
+
