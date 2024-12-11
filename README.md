@@ -1,14 +1,15 @@
 # MediHub
 Creating a web-based platform to seamlessly connect local medical stores with customers, simplifying the process of procuring medicines.
 
-###Problem Statement
+### Problem Statement
 Local pharmacies are struggling to compete with online platforms. Traditional medicine buying involves multiple store visits and delivery challenges. MediHub addresses these issues by offering a streamlined online purchasing experience while supporting local pharmacies. It enhances convenience through online consultations and prescription verification, making the pharmacy experience more efficient and user-friendly.
 
-###Methodology
+### Methodology
 ![Low lvl](https://github.com/user-attachments/assets/369f6e9f-2bb4-4f16-8bc7-20c81ff0f4da)
 
 
-###UI Diagram
+### UI Diagram
+<img width="3924" alt="MediHub" src="https://github.com/user-attachments/assets/f60ff3fa-8343-488c-acef-13aee3917ad9" />
 
 
 ### SOFTWARE REQUIREMENTS
